@@ -18,7 +18,7 @@ El proyecto consistió en migrar su infraestructura a la nube, mejorando la disp
 
 📬 Contacto
 
-LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/ibarralucas/)
+LinkedIn: https://www.linkedin.com/in/ibarralucas/
 
 Email: ibarralucaswork@gmail.com
 
